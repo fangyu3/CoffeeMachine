@@ -1,0 +1,2 @@
+# CoffeeMachine
+Simple Java application
